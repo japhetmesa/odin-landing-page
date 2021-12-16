@@ -16,3 +16,54 @@
     font-size: 36px;
     color: f9faf8;
 }
+.logo-image{
+    width: 50px;
+    height: 50px;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+.logo-container{
+    display: flex;
+    gap: 16px;
+}
+.hero{
+    background: #1f2937;
+    height: 300px;
+    width: 100%;
+    display: flex;
+    padding: 8px;
+}
+.hero-button{
+    width: 100px;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+    background: #3882f6;
+    height: 30px;
+    margin-top: 50px;
+}
+.hero-image{
+    width: 280px;
+    height: 280px;
+    border-radius: 30px;
+}
+.hero-header-main-text{
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: bolder;
+}
+.hero-header-sec-text{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+.hero-right{
+    display: flex;
+    width: 50%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.hero-sec-container{
+    display: flex;
+}
