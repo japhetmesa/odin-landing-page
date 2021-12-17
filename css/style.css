@@ -27,6 +27,18 @@
     color: #1f2937;
     text-align: center;
 }
+.footer{
+    background: #1f2937;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.copyright{
+    font-size: 18px;
+    color: white;
+    text-align: center;
+}
 .info-image-caption{
     width: 200px;
     text-align: center;
